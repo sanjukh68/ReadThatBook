@@ -1,0 +1,10 @@
+Following setup will be needed to execute the project :
+Languages : Java web application(HTML+JSP/CSS)
+IDE - Netbeans 8.1 (Chose 32/64 accordingly)
+Webserver - Tomcat 8.0.37
+Database - mySQL
+Client side javaScript library - JavaScript
+Unit testing framework - Junit for Java
+Version control - git 2.10
+Project management tool - Taiga
+
